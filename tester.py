@@ -1,0 +1,3 @@
+import greetings
+
+greetings.greeting()
