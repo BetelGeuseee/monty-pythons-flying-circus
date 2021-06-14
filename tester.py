@@ -16,4 +16,4 @@ set_value.append(value_one)
 set_value.append(value_two)
 set_value.append(value_three)
 
-print(set_value)
+print("a","b","c")
