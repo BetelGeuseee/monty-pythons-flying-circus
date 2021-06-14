@@ -8,3 +8,4 @@ for letter in word:
         print(letter)
     if letter not in vowels:
         print("shrihsakupadhayay@gamil.cmc")    
+       
