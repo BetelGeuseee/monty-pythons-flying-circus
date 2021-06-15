@@ -15,5 +15,3 @@ value_three=[1,2,3,4,5,6]
 set_value.append(value_one)
 set_value.append(value_two)
 set_value.append(value_three)
-
-print("a","b","c")
